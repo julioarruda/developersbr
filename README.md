@@ -1,2 +1,2 @@
 # developersbr
-Teste GPG2
+Teste GPG3
